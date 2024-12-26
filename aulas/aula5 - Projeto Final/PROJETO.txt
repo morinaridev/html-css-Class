@@ -1,0 +1,11 @@
+Objetivo
+
+Criar uma página simples contendo:
+
+Um título
+
+Um parágrafo
+
+Uma imagem
+
+Um menu com links estilizados

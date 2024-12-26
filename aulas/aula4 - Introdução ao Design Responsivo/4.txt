@@ -1,0 +1,3 @@
+Media Queries
+
+Exemplo de como ajustar o layout para telas menores:

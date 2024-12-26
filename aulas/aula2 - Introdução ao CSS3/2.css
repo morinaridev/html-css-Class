@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* No HTML, conecte o arquivo:
+<link rel="stylesheet" href="styles.css">*/ 
+
+/*Seletores básicos 
+    Selecionado por elemento*/
+
+    p {
+        color: blue;
+    } 
+
+    /*Selecionado por classe */
+
+    .destaque {
+        font-weight: bold;
+    }
+
+/*Selecionando por ID
+LEMBRE-SE DE CRIAR CADA UM NO HTML TAMBEM SEGUINDO O EXEMPLO*/
+
+    #unico {
+        color: green;
+    }
